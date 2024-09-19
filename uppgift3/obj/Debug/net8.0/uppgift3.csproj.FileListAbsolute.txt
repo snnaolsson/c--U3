@@ -1,0 +1,14 @@
+C:\Users\46708\Desktop\DT071G\U3\uppgift3\bin\Debug\net8.0\uppgift3.exe
+C:\Users\46708\Desktop\DT071G\U3\uppgift3\bin\Debug\net8.0\uppgift3.deps.json
+C:\Users\46708\Desktop\DT071G\U3\uppgift3\bin\Debug\net8.0\uppgift3.runtimeconfig.json
+C:\Users\46708\Desktop\DT071G\U3\uppgift3\bin\Debug\net8.0\uppgift3.dll
+C:\Users\46708\Desktop\DT071G\U3\uppgift3\bin\Debug\net8.0\uppgift3.pdb
+C:\Users\46708\Desktop\DT071G\U3\uppgift3\obj\Debug\net8.0\uppgift3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\46708\Desktop\DT071G\U3\uppgift3\obj\Debug\net8.0\uppgift3.AssemblyInfoInputs.cache
+C:\Users\46708\Desktop\DT071G\U3\uppgift3\obj\Debug\net8.0\uppgift3.AssemblyInfo.cs
+C:\Users\46708\Desktop\DT071G\U3\uppgift3\obj\Debug\net8.0\uppgift3.csproj.CoreCompileInputs.cache
+C:\Users\46708\Desktop\DT071G\U3\uppgift3\obj\Debug\net8.0\uppgift3.dll
+C:\Users\46708\Desktop\DT071G\U3\uppgift3\obj\Debug\net8.0\refint\uppgift3.dll
+C:\Users\46708\Desktop\DT071G\U3\uppgift3\obj\Debug\net8.0\uppgift3.pdb
+C:\Users\46708\Desktop\DT071G\U3\uppgift3\obj\Debug\net8.0\uppgift3.genruntimeconfig.cache
+C:\Users\46708\Desktop\DT071G\U3\uppgift3\obj\Debug\net8.0\ref\uppgift3.dll
